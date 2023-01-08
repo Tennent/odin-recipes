@@ -1,3 +1,7 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .main-pic {
     display: block;
     margin-left: auto;
@@ -12,5 +16,9 @@
     font-size: 28px;
     font-weight: bold;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe {
+    color: #000000;
+    font-size: 20px;
 }
