@@ -1,0 +1,16 @@
+.main-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 40%;
+}
+
+.main-title {
+    color: #2bddb1;
+    background-color: #000000;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
